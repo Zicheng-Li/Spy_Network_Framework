@@ -1,0 +1,3 @@
+# Spy_Network_Framework
+
+I have designed a spy network using several design patterns, including the Observer pattern, Strategy pattern, Singleton pattern, and Decorator pattern. The purpose of this network is to propagate encryption schemes so that spies can communicate securely with each other. This network makes use of the observer pattern to propagate the encryption schemes, the strategy pattern for the selection of the encryption algorithm, the singleton pattern for the creation of the encryption schemes and the decorator pattern for the encryption and decryption of the messages sent between the spies. 
